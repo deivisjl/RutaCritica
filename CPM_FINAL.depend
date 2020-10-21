@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1603322075 source:d:\umg2020_x\io\final\cpm_final\main.cpp
+	<iostream>
+	"Actividad.h"
+
+1603322068 d:\umg2020_x\io\final\cpm_final\include\actividad.h
+	<iostream>
+	<string>
+	<list>
+	<algorithm>
+
+1603321825 source:d:\umg2020_x\io\final\cpm_final\src\actividad.cpp
+	"Actividad.h"
+	<iostream>
+	<windows.h>
+
